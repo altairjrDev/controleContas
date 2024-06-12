@@ -1,0 +1,15 @@
+C:\Users\Pichau\source\repos\NSKaique\VisualC\controleContas\controleContas\obj\Debug\net6.0\controleContas.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\NSKaique\VisualC\controleContas\controleContas\obj\Debug\net6.0\controleContas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\NSKaique\VisualC\controleContas\controleContas\obj\Debug\net6.0\controleContas.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\NSKaique\VisualC\controleContas\controleContas\obj\Debug\net6.0\controleContas.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\NSKaique\VisualC\controleContas\controleContas\obj\Debug\net6.0\controleContas.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\NSKaique\VisualC\controleContas\controleContas\bin\Debug\net6.0\controleContas.exe
+C:\Users\Pichau\source\repos\NSKaique\VisualC\controleContas\controleContas\bin\Debug\net6.0\controleContas.deps.json
+C:\Users\Pichau\source\repos\NSKaique\VisualC\controleContas\controleContas\bin\Debug\net6.0\controleContas.runtimeconfig.json
+C:\Users\Pichau\source\repos\NSKaique\VisualC\controleContas\controleContas\bin\Debug\net6.0\controleContas.dll
+C:\Users\Pichau\source\repos\NSKaique\VisualC\controleContas\controleContas\bin\Debug\net6.0\controleContas.pdb
+C:\Users\Pichau\source\repos\NSKaique\VisualC\controleContas\controleContas\obj\Debug\net6.0\controleContas.dll
+C:\Users\Pichau\source\repos\NSKaique\VisualC\controleContas\controleContas\obj\Debug\net6.0\refint\controleContas.dll
+C:\Users\Pichau\source\repos\NSKaique\VisualC\controleContas\controleContas\obj\Debug\net6.0\controleContas.pdb
+C:\Users\Pichau\source\repos\NSKaique\VisualC\controleContas\controleContas\obj\Debug\net6.0\controleContas.genruntimeconfig.cache
+C:\Users\Pichau\source\repos\NSKaique\VisualC\controleContas\controleContas\obj\Debug\net6.0\ref\controleContas.dll
